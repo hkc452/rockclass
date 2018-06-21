@@ -1,12 +1,16 @@
 {
-  "name": "@hkc/rockclass",
+  "name": "rockclass",
   "version": "0.0.1",
   "description": "enforce handle the css name together",
+	"repository": "https://github.com/hkc452/rockclass",
+	"author": {
+		"name": "hkc452",
+		"email": "779543729@qq.com"
+	},
   "main": "index.js",
   "scripts": {
 		"test": "xo && ava"
   },
-  "author": "hkc452",
 	"license": "MIT",
 	"devDependencies": {
 		"ava": "*",
@@ -14,5 +18,21 @@
 	},
 	"engines": {
 		"node": ">=8"
-	}
+	},
+	"keywords": [
+		"class-names",
+		"classnames",
+		"class",
+		"names",
+		"name",
+		"classes",
+		"react",
+		"jsx",
+		"component",
+		"join",
+		"concatenate",
+		"concat",
+		"rock",
+		"rockclass"
+	]
 }

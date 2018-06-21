@@ -8,7 +8,7 @@
 ## Install
 
 ```
-$ npm install @hkc/rockclass
+$ npm install rockclass
 ```
 
 
