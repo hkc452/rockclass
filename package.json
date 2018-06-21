@@ -1,0 +1,18 @@
+{
+  "name": "@hkc/rockclass",
+  "version": "0.0.1",
+  "description": "enforce handle the css name together",
+  "main": "index.js",
+  "scripts": {
+		"test": "xo && ava"
+  },
+  "author": "hkc452",
+	"license": "MIT",
+	"devDependencies": {
+		"ava": "*",
+		"xo": "*"
+	},
+	"engines": {
+		"node": ">=8"
+	}
+}
