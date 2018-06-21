@@ -2,7 +2,7 @@
 
 > Conditionally join CSS class names together - Especially useful with React
 
-## Inspired by [class-names](https://github.com/sindresorhus/class-names) but support array prop
+## Inspired by [class-names](https://github.com/sindresorhus/class-names) but support array input
 
 
 ## Install
@@ -67,16 +67,16 @@ Conditionally join CSS class names together.
 
 #### input
 
-Type: `string` `Object`
+Type: `string` `Object` `Array`
 
-Accepts a combination of strings and objects. Only object keys with truthy values are included. Anything else is ignored.
+Accepts a combination of strings objects and Array. Only object keys with truthy values are included. Anything else is ignored.
 
 
 ## FAQ
 
 ### How is it different from [`class-names`](https://github.com/sindresorhus/class-names)?
 
-- support array input. Just use the spread operator.
+- support array input.
 
 
 ## Related
