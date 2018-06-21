@@ -1,4 +1,4 @@
-# rockclass [![Build Status](https://www.travis-ci.org/hkc452/rockclass.svg?branch=master)](https://www.travis-ci.org/hkc452/rockclass)
+# rockclass [![Build Status](https://www.travis-ci.org/hkc452/rockclass.svg?branch=master)](https://www.travis-ci.org/hkc452/rockclass) [![gzip size](http://img.badgesize.io/https://cdn.jsdelivr.net/npm/rockclass/index.js?compression=gzip)](https://cdn.jsdelivr.net/npm/rockclass/index.js)
 
 > Conditionally join CSS class names together - Especially useful with React
 
